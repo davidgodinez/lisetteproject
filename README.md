@@ -1,5 +1,6 @@
-# lisette's Project
-This is the code for a cool idea that Lisette had. It is an autonomous photographer that has a small cart at it's base that can navigate via neural networks. 
+# Lisette's Project
+
+It is an autonomous photographer that has a small cart at it's base that can navigate via neural networks. The box houses a stand that can ele
 
 ## Major Components
 
